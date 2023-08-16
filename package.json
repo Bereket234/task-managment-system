@@ -1,0 +1,26 @@
+{
+  "name": "task-managment-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bereket234/task-managment-system.git"
+  },
+  "author": "Bereket Nigussie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bereket234/task-managment-system/issues"
+  },
+  "homepage": "https://github.com/Bereket234/task-managment-system#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^7.4.3"
+  }
+}
